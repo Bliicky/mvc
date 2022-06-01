@@ -2,6 +2,11 @@
   "private": true,
   "dependencies": {
     "todomvc-app-css": "^2.0.0",
-    "todomvc-common": "^1.0.0"
+    "todomvc-common": "^1.0.0",
+    "vite": "^2.9.9"
+  },
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
